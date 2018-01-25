@@ -3,6 +3,7 @@
 [![Code Climate](https://img.shields.io/codeclimate/maintainability/bundler/bundler.svg?style=flat)](https://codeclimate.com/github/bundler/bundler)
 [![Inline docs ](http://inch-ci.org/github/bundler/bundler.svg?style=flat)](http://inch-ci.org/github/bundler/bundler)
 [![Slack       ](http://bundler-slackin.herokuapp.com/badge.svg)](http://bundler-slackin.herokuapp.com)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FEZO801%2Fbundler.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FEZO801%2Fbundler?ref=badge_shield)
 
 # Bundler: a gem to bundle gems
 
@@ -57,3 +58,7 @@ While some Bundler contributors are compensated by Ruby Together, the project ma
 ### Code of Conduct
 
 Everyone interacting in the Bundler project’s codebases, issue trackers, chat rooms, and mailing lists is expected to follow the [Bundler code of conduct](https://github.com/bundler/bundler/blob/master/CODE_OF_CONDUCT.md).
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FEZO801%2Fbundler.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FEZO801%2Fbundler?ref=badge_large)
